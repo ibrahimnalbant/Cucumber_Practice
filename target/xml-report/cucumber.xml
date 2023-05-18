@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="15.957" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="US1004 Kullanici parametre ile configurations file'i kullanabilmeli" name="TC07 configuration properties dosyasindan parametre kullanimi" time="15.507">
+<system-out><![CDATA[
+Given kullanici "amazonUrl" sayfasinda......................................passed
+Then kullanici 3 sn bekler..................................................passed
+And url'in "amazon" icerdigini test eder....................................passed
+And sayfayi kapatir.........................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
